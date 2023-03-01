@@ -114,8 +114,11 @@ alias v='vim'
 alias docker-desk="open -na 'Docker Desktop'"
 # eval "$(rbenv init -)"
 
-
+#custom variables
 export lnxsrv='varmaraj@lnxsrv15.seas.ucla.edu'
+export EDITOR='vim'
+
+
 
 
 export PATH=/Users/pranav/Library/Python/3.8/bin:$PATH
